@@ -1,0 +1,39 @@
+
+* Outline
+** more items
+Lorem ipsum paragraph for more items, generate dummy text,
+yada yada yada
+** Re order items with M-Up, M-Down
+What about folding items? Need to learn more about folding though
+Folding single item, fold
+unfold all etc. etc.
+** Make items at same level with M-Enter
+
+* Markup
+**  *Bold* , /italic/
+** Promote, demote list items with M-Right, M-Left
+
+* Tables
+Text content for tables,
+Write as much as you like
+add more content for tables here
+* Todo Stuff
+** Bullets with -
+** TODO explain todo lists
+** DONE cycle through state
+   CLOSED: [2017-04-30 Sun 13:07]
+** C-c C-t switches states of a todo
+** You can add deadlines to a todo
+
+* Latex integration
+- Charachters: \alpha \rightarrow \beta
+- $O(n \log n)$
+
+* Export to other formats
+** C-c, C-E will let you export to any other format
+*** HTML (with bootstrap: ox-twbs)
+*** LaTex
+*** Beamer
+*** Github flavored markdown(ox-gfm)
+
+=ox-twbs=
