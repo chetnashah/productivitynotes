@@ -1,0 +1,42 @@
+
+*** Chrome shortcuts
+
+**** Switch between tabs - Ctrl-Tab
+
+**** Go to URL bar - Ctrl-L
+
+**** Open New tab - Ctrl-T
+
+**** Open recently closed tab - Ctrl-Shift-T
+
+**** Kill current tab - Ctrl-W
+
+*** VSCode Shortcuts
+
+**** Go to file - Ctrl-P
+
+**** Toggle Drawer - Ctrl-B
+
+**** Command Pallette - Ctrl-Shift-P
+
+**** Fold, Unfold - Ctrl-Shift-[, Ctrl-Shift-]
+
+**** Open Terminal - Ctrl-`
+
+**** Switch between tabs - Ctrl-Tab
+
+*** Vim Shortcuts
+
+**** G - end of file 
+     This is about G key, it lets you go till the end of file
+**** gg - start of file
+     This is about gg key it lets you go to start of file
+**** y - yank
+     This is for copying text, yanking means copying
+**** p - paste
+     This is pasting text, any cut or copied text can be pasted
+*** Emacs Shortcuts
+
+*** Intellij Shortcuts
+
+
