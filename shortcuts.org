@@ -35,8 +35,20 @@
      This is for copying text, yanking means copying
 **** p - paste
      This is pasting text, any cut or copied text can be pasted
+**** / - start search by the text following.
+**** o - add a line below starting insert mode
+**** O - add a line above starting insert mode
+**** cc - change current line
+**** C - change rest of line
+**** b - move one word to left
+**** w - move one word to right
+**** cw - change current word
+
 *** Emacs Shortcuts
 
 *** Intellij Shortcuts
 
+**** Ctrl-Shift-A to find any shortcut.
+
+*** Tmux shortcuts
 
